@@ -1,1 +1,2 @@
 p mabar
+color 2
